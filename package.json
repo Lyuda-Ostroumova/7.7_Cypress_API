@@ -1,0 +1,14 @@
+{
+  "name": "cypress_api",
+  "version": "1.0.0",
+  "description": "api test with cypress",
+  "main": "index.js",
+  "scripts": {
+    "cy:dash": "cypress run --record --key 27fbd176-8d8b-4bfc-b0e2-dc5260062ba3"
+  },
+  "author": "lyuda_ostroumova",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.6.0"
+  }
+}
